@@ -4,3 +4,4 @@ __pycache__/
 data/
 logs/
 DS_Store
+*.hdf5
